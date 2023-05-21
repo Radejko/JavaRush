@@ -15,3 +15,4 @@ Program features:
 - as a result of the program, a file with the same name as the input file appears in the folder with the initial file, but with the mark [ENCRYPTED] / [DECRYPTED] according to the command specified by the program
 - after decoding the encrypted file, the content of the text is not lost by a single character, so you can not worry about losing valuable information in the text transmitted to the program for encryption
 - expect a user-friendly interface in the next version
+- the test file for testing the program is in the folder: src/main/resources/test.txt
